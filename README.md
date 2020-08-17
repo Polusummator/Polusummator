@@ -1,5 +1,5 @@
 ### Hello there 👋
-- 🔭 I’m currently working on AppTime applicatiom (monitoring app usage time)
+- 🔭 I’m currently working on AppTime application (monitoring app usage time)
 - 🌱 I’m currently learning C++
 <!--
 **Polusummator/Polusummator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
